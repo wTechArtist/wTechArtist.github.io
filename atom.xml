@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtechartist.github.io/</id>
     <title>TechArtist</title>
-    <updated>2021-01-25T12:54:48.760Z</updated>
+    <updated>2021-01-25T13:13:57.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtechartist.github.io/"/>
     <link rel="self" href="https://wtechartist.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://wtechartist.github.io/post/shader/">
         </link>
         <updated>2021-01-25T12:49:29.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wtechartist.github.io//post-images/1611579047010.gif" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wtechartist.github.io//post-images/1611580338990.gif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[techartist]]></title>
+        <title type="html"><![CDATA[美术]]></title>
         <id>https://wtechartist.github.io/post/hello-gridea/</id>
         <link href="https://wtechartist.github.io/post/hello-gridea/">
         </link>
@@ -28,9 +28,7 @@
         <content type="html"><![CDATA[<p><img src="https://wtechartist.github.io//post-images/1611574349897.jpg" alt="" loading="lazy"><br>
 <img src="https://wtechartist.github.io//post-images/1611577424790.jpg" alt="" loading="lazy"><br>
 <img src="https://wtechartist.github.io//post-images/1611577431012.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577434596.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577445019.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577455914.jpg" alt="" loading="lazy"></p>
+<img src="https://wtechartist.github.io//post-images/1611577434596.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
