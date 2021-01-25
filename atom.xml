@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtechartist.github.io/</id>
     <title>TechArtist</title>
-    <updated>2021-01-25T13:15:39.259Z</updated>
+    <updated>2021-01-25T13:52:49.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtechartist.github.io/"/>
     <link rel="self" href="https://wtechartist.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://wtechartist.github.io/post/shader/">
         </link>
         <updated>2021-01-25T12:49:29.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wtechartist.github.io//post-images/1611580338990.gif" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<p><img src="https://wtechartist.github.io//post-images/1611580338990.gif" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611582738706.gif" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611582743676.gif" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611582747947.gif" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611582752204.gif" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
@@ -25,10 +29,17 @@
         <link href="https://wtechartist.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://wtechartist.github.io//post-images/1611574349897.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://wtechartist.github.io//post-images/1611581715951.jpg" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611574349897.jpg" alt="" loading="lazy"><br>
 <img src="https://wtechartist.github.io//post-images/1611577424790.jpg" alt="" loading="lazy"><br>
 <img src="https://wtechartist.github.io//post-images/1611577431012.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577434596.jpg" alt="" loading="lazy"></p>
+<img src="https://wtechartist.github.io//post-images/1611577434596.jpg" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611581736486.jpg" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611581741888.jpg" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611581754192.jpg" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611581760601.jpg" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611581767423.jpg" alt="" loading="lazy"><br>
+<img src="https://wtechartist.github.io//post-images/1611581777109.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
