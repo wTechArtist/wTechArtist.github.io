@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtechartist.github.io/</id>
     <title>TechArtist</title>
-    <updated>2021-01-25T12:27:40.371Z</updated>
+    <updated>2021-01-25T12:46:59.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtechartist.github.io/"/>
     <link rel="self" href="https://wtechartist.github.io/atom.xml"/>
@@ -21,11 +21,7 @@
 <img src="https://wtechartist.github.io//post-images/1611577431012.jpg" alt="" loading="lazy"><br>
 <img src="https://wtechartist.github.io//post-images/1611577434596.jpg" alt="" loading="lazy"><br>
 <img src="https://wtechartist.github.io//post-images/1611577445019.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577455914.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577460300.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577465360.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577473357.jpg" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611577479029.jpg" alt="" loading="lazy"></p>
+<img src="https://wtechartist.github.io//post-images/1611577455914.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
