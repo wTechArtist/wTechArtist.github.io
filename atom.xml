@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtechartist.github.io/</id>
     <title>TechArtist</title>
-    <updated>2021-01-25T14:27:25.555Z</updated>
+    <updated>2021-01-25T14:39:51.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtechartist.github.io/"/>
     <link rel="self" href="https://wtechartist.github.io/atom.xml"/>
@@ -16,17 +16,13 @@
         <link href="https://wtechartist.github.io/post/shader/">
         </link>
         <updated>2021-01-25T12:49:29.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://wtechartist.github.io//post-images/1611580338990.gif" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611582738706.gif" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611582743676.gif" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611582747947.gif" alt="" loading="lazy"><br>
-<img src="https://wtechartist.github.io//post-images/1611582752204.gif" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wtechartist.github.io//post-images/1611580338990.gif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美术]]></title>
-        <id>https://wtechartist.github.io/post/hello-gridea/</id>
-        <link href="https://wtechartist.github.io/post/hello-gridea/">
+        <id>https://wtechartist.github.io/post/meishu/</id>
+        <link href="https://wtechartist.github.io/post/meishu/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://wtechartist.github.io//post-images/1611581715951.jpg" alt="" loading="lazy"><br>
